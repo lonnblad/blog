@@ -7,6 +7,8 @@ description = "This is a tool to generate a static web site based on Markdown fi
 
 This is a tool to generate a static web site based on Markdown files.
 
+[Link to the project.](https://github.com/lonnblad/go-service-doc)
+
 It will:
 
 - convert Markdown files to HTML pages ([more info](#html-page-generator))
