@@ -1,6 +1,6 @@
-baseURL = 'https://blog.lonnblad.com/'
+baseURL = 'https://lonnblad.github.io/blog'
 languageCode = 'en-us'
-title = 'My New Blog'
+title = "Fredrik's Blog"
 # theme = "terminal"
 
 [params]
@@ -12,7 +12,7 @@ title = 'My New Blog'
 
 [languages]
   [languages.en]
-    title = "Fredriks blog"
+    title = "Fredrik's Blog"
     subtitle = "A simple, retro theme for Hugo"
     keywords = ""
     copyright = ""
@@ -21,8 +21,8 @@ title = 'My New Blog'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Fredriks blog"
-      logoHomeLink = "/"
+      logoText = "Fredrik's Blog"
+      logoHomeLink = "/blog"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -34,11 +34,6 @@ title = 'My New Blog'
         identifier = "projects"
         name = "Projects"
         url = "/projects"
-
-      [[languages.en.menu.main]]
-        identifier = "posts"
-        name = "Posts"
-        url = "/posts"
 
 [module]
 
