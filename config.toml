@@ -1,10 +1,10 @@
-baseURL = 'https://lonnblad.github.io/blog'
+baseURL = 'https://blog.lonnblad.com'
 languageCode = 'en-us'
 title = "Fredrik's Blog"
 # theme = "terminal"
 
 [params]
-  contentTypeName = "posts"
+  contentTypeName = "projects"
   themeColor = "orange"
   showMenuItems = 3
   fullWidthTheme = false
@@ -22,7 +22,7 @@ title = "Fredrik's Blog"
 
     [languages.en.params.logo]
       logoText = "Fredrik's Blog"
-      logoHomeLink = "/blog"
+      logoHomeLink = "/"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
